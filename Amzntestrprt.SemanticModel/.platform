@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Amzntestrprt"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "2ec3cfd9-6602-462b-b685-0c964a541ff4"
+  }
+}
